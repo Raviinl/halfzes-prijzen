@@ -37,6 +37,12 @@
       "gramPerStuk": 12,
       "verpakking": null
     },
+    "Bavette": {
+      "product": "wi571286",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Blanke hazelnoten": {
       "product": "wi520109",
       "andereMaten": [],
@@ -96,16 +102,34 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Chilipoeder (kruidenmix)": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Chilivlokken": {
       "product": "wi234759",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Chipotle in adobo (blik)": {
+      "product": "wi449835",
+      "andereMaten": [],
+      "gramPerStuk": 10,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "La Morena Chipotle peper (heel)",
+        "inhoud": "100 g",
+        "prijsCent": 245,
+        "gezien": "2026-11-15"
+      }
+    },
     "Citroen": {
       "product": "wi230708",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 45,
       "verpakking": null
     },
     "Cornflakes": {
@@ -116,6 +140,12 @@
     },
     "Courgette": {
       "product": "wi4164",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Crema mexicana": {
+      "product": null,
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -136,6 +166,12 @@
     },
     "Doperwten": {
       "product": "wi838",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Doperwten (diepvries)": {
+      "product": "wi788",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -169,6 +205,18 @@
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
+    },
+    "Gedroogde marjolein": {
+      "product": "wi386199",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "Verstegen Majoraan",
+        "inhoud": "8 g",
+        "prijsCent": 269,
+        "gezien": "2026-11-15"
+      }
     },
     "Gedroogde oregano": {
       "product": "wi414969",
@@ -210,6 +258,12 @@
     },
     "Gepelde tomaten (blik)": {
       "product": "wi803",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Geraspte cheddar": {
+      "product": "wi454161",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -275,6 +329,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Guacamole": {
+      "product": "wi590094",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Half-om-half gehakt": {
       "product": "wi4007",
       "andereMaten": [],
@@ -336,6 +396,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Jalapeñopeper": {
+      "product": "wi415244",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Kaas (plakken)": {
       "product": "wi2601",
       "andereMaten": [
@@ -391,6 +457,12 @@
         "eenheid": "ml"
       }
     },
+    "Kippenbouillonpoeder": {
+      "product": "wi189390",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Knoflook": {
       "product": "wi4160",
       "andereMaten": [],
@@ -445,13 +517,21 @@
     "Kruimige aardappel": {
       "product": "wi123955",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 200,
       "verpakking": null
     },
     "Kurkuma": {
       "product": "wi485310",
       "andereMaten": [],
       "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Limoen": {
+      "product": "wi231211",
+      "andereMaten": [
+        "wi519646"
+      ],
+      "gramPerStuk": 30,
       "verpakking": null
     },
     "Macaroni": {
@@ -468,6 +548,18 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Maistortilla": {
+      "product": "wi450151",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "La Morena Gele maistortilla (10 stks)",
+        "inhoud": "10 stuks",
+        "prijsCent": 299,
+        "gezien": "2026-11-15"
+      }
+    },
     "Mayonaise": {
       "product": "wi425942",
       "andereMaten": [
@@ -478,6 +570,12 @@
       "verpakking": null
     },
     "Merguezworstje": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Mexicaanse oregano": {
       "product": null,
       "andereMaten": [],
       "gramPerStuk": null,
@@ -524,6 +622,12 @@
     },
     "Oude kaas": {
       "product": "wi486699",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Paneermeel": {
+      "product": "wi954",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -592,6 +696,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Queso fresco": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Rauwe garnalen": {
       "product": "wi217010",
       "andereMaten": [],
@@ -621,13 +731,19 @@
     "Rode ui": {
       "product": "wi490280",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 100,
       "verpakking": null
     },
     "Romaine sla": {
       "product": "wi193245",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 200,
+      "verpakking": null
+    },
+    "Romatomaat": {
+      "product": "wi67874",
+      "andereMaten": [],
+      "gramPerStuk": 80,
       "verpakking": null
     },
     "Roomboter": {
@@ -648,6 +764,25 @@
       "product": "wi111767",
       "andereMaten": [
         "wi168092"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Runderbouillonblokje": {
+      "product": "wi492037",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 6000,
+        "eenheid": "ml"
+      }
+    },
+    "Rundergehakt": {
+      "product": "wi4011",
+      "andereMaten": [
+        "wi549766",
+        "wi4004",
+        "wi3954"
       ],
       "gramPerStuk": null,
       "verpakking": null
@@ -704,6 +839,15 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Tacokruiden": {
+      "product": "wi140615",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 55,
+        "eenheid": "ml"
+      }
+    },
     "Tomaat": {
       "product": "wi4088",
       "andereMaten": [],
@@ -722,8 +866,32 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Tomatensalsa (pot)": {
+      "product": "wi31473",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tomatillo": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Tomato frito met basilicum": {
       "product": "wi577546",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tonijn in water (blik)": {
+      "product": "wi420789",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tortillachips": {
+      "product": "wi449006",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -739,6 +907,18 @@
       "andereMaten": [],
       "gramPerStuk": 29,
       "verpakking": null
+    },
+    "Tostada": {
+      "product": "wi591895",
+      "andereMaten": [],
+      "gramPerStuk": 12,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "La Morena Tostada",
+        "inhoud": "72 g",
+        "prijsCent": 259,
+        "gezien": "2026-11-15"
+      }
     },
     "Trassi": {
       "product": "wi165009",
@@ -764,11 +944,29 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Varkensgehakt": {
+      "product": "wi619322",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "AH Varkensgehakt",
+        "inhoud": "300 g",
+        "prijsCent": 299,
+        "gezien": "2026-11-15"
+      }
+    },
     "Veldsla": {
       "product": "wi67593",
       "andereMaten": [
         "wi168091"
       ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Vermicelli": {
+      "product": "wi3325",
+      "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
     },
@@ -795,7 +993,7 @@
       "andereMaten": [
         "wi207077"
       ],
-      "gramPerStuk": null,
+      "gramPerStuk": 2,
       "verpakking": null
     },
     "Verse peterselie": {
@@ -843,7 +1041,7 @@
     "Wortel": {
       "product": "wi221495",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 100,
       "verpakking": null
     },
     "Zachte geitenkaas": {
@@ -899,6 +1097,14 @@
     "Zuurkool": {
       "product": "wi525272",
       "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zwarte bonen (blik)": {
+      "product": "wi188265",
+      "andereMaten": [
+        "wi471758"
+      ],
       "gramPerStuk": null,
       "verpakking": null
     }

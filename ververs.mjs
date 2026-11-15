@@ -52,7 +52,12 @@ for (const [boodschap, koppeling] of Object.entries(koppelingen)) {
   if (koppeling.product === null) continue;
   const maten = [];
   for (const [index, id] of [koppeling.product, ...(koppeling.andereMaten ?? [])].entries()) {
-    const product = opId.get(id);
+    // Het productbestand is niet compleet: staat de hoofdmaat er niet in, dan geldt wat de koppeling zelf opgeeft.
+    const handmatig =
+      index === 0 && koppeling.handmatig
+        ? { id, naam: koppeling.handmatig.naam, inhoud: koppeling.handmatig.inhoud, prijs: koppeling.handmatig.prijsCent / 100 }
+        : undefined;
+    const product = opId.get(id) ?? handmatig;
     // Bij de hoofdmaat mag de koppeling zelf zeggen wat er in de verpakking zit (tenen in een bol knoflook).
     const verpakking = product && ((index === 0 && koppeling.verpakking) || leesInhoud(product.inhoud));
     if (!product || !verpakking || !(product.prijs > 0)) continue;

@@ -77,6 +77,21 @@
         }
       ]
     },
+    "Bavette": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi571286",
+          "naam": "AH BBQ bavette",
+          "inhoud": "ca. 700 g",
+          "verpakking": {
+            "hoeveelheid": 700,
+            "eenheid": "g"
+          },
+          "prijsCent": 2199
+        }
+      ]
+    },
     "Blanke hazelnoten": {
       "gramPerStuk": null,
       "maten": [
@@ -237,8 +252,23 @@
         }
       ]
     },
+    "Chipotle in adobo (blik)": {
+      "gramPerStuk": 10,
+      "maten": [
+        {
+          "product": "wi449835",
+          "naam": "La Morena Chipotle peper (heel)",
+          "inhoud": "100 g",
+          "verpakking": {
+            "hoeveelheid": 100,
+            "eenheid": "g"
+          },
+          "prijsCent": 245
+        }
+      ]
+    },
     "Citroen": {
-      "gramPerStuk": null,
+      "gramPerStuk": 45,
       "maten": [
         {
           "product": "wi230708",
@@ -337,6 +367,21 @@
         }
       ]
     },
+    "Doperwten (diepvries)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi788",
+          "naam": "AH Tuinerwten fijn",
+          "inhoud": "450 g",
+          "verpakking": {
+            "hoeveelheid": 450,
+            "eenheid": "g"
+          },
+          "prijsCent": 119
+        }
+      ]
+    },
     "Droge witte wijn": {
       "gramPerStuk": null,
       "maten": [
@@ -379,6 +424,21 @@
             "eenheid": "g"
           },
           "prijsCent": 229
+        }
+      ]
+    },
+    "Gedroogde marjolein": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi386199",
+          "naam": "Verstegen Majoraan",
+          "inhoud": "8 g",
+          "verpakking": {
+            "hoeveelheid": 8,
+            "eenheid": "g"
+          },
+          "prijsCent": 269
         }
       ]
     },
@@ -494,6 +554,21 @@
             "eenheid": "g"
           },
           "prijsCent": 69
+        }
+      ]
+    },
+    "Geraspte cheddar": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi454161",
+          "naam": "AH Cheddar geraspte kaas",
+          "inhoud": "150 g",
+          "verpakking": {
+            "hoeveelheid": 150,
+            "eenheid": "g"
+          },
+          "prijsCent": 299
         }
       ]
     },
@@ -649,6 +724,21 @@
             "eenheid": "g"
           },
           "prijsCent": 699
+        }
+      ]
+    },
+    "Guacamole": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi590094",
+          "naam": "AH Guacamole",
+          "inhoud": "200 g",
+          "verpakking": {
+            "hoeveelheid": 200,
+            "eenheid": "g"
+          },
+          "prijsCent": 249
         }
       ]
     },
@@ -827,6 +917,21 @@
         }
       ]
     },
+    "Jalapeñopeper": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi415244",
+          "naam": "AH Jalapeño peper groen",
+          "inhoud": "per stuk",
+          "verpakking": {
+            "hoeveelheid": 1,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 55
+        }
+      ]
+    },
     "Kaas (plakken)": {
       "gramPerStuk": 22,
       "maten": [
@@ -992,6 +1097,21 @@
         }
       ]
     },
+    "Kippenbouillonpoeder": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi189390",
+          "naam": "Maggi Bouillon kippen",
+          "inhoud": "154 g",
+          "verpakking": {
+            "hoeveelheid": 154,
+            "eenheid": "g"
+          },
+          "prijsCent": 215
+        }
+      ]
+    },
     "Knoflook": {
       "gramPerStuk": null,
       "maten": [
@@ -1113,7 +1233,7 @@
       ]
     },
     "Kruimige aardappel": {
-      "gramPerStuk": null,
+      "gramPerStuk": 200,
       "maten": [
         {
           "product": "wi123955",
@@ -1139,6 +1259,31 @@
             "eenheid": "g"
           },
           "prijsCent": 165
+        }
+      ]
+    },
+    "Limoen": {
+      "gramPerStuk": 30,
+      "maten": [
+        {
+          "product": "wi231211",
+          "naam": "AH Limoen",
+          "inhoud": "per stuk",
+          "verpakking": {
+            "hoeveelheid": 1,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 69
+        },
+        {
+          "product": "wi519646",
+          "naam": "AH Limoenen",
+          "inhoud": "4 stuks",
+          "verpakking": {
+            "hoeveelheid": 4,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 149
         }
       ]
     },
@@ -1179,6 +1324,21 @@
             "eenheid": "g"
           },
           "prijsCent": 119
+        }
+      ]
+    },
+    "Maistortilla": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi450151",
+          "naam": "La Morena Gele maistortilla (10 stks)",
+          "inhoud": "10 stuks",
+          "verpakking": {
+            "hoeveelheid": 10,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 299
         }
       ]
     },
@@ -1339,6 +1499,21 @@
             "eenheid": "g"
           },
           "prijsCent": 780
+        }
+      ]
+    },
+    "Paneermeel": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi954",
+          "naam": "AH Paneermeel naturel beschuit",
+          "inhoud": "150 g",
+          "verpakking": {
+            "hoeveelheid": 150,
+            "eenheid": "g"
+          },
+          "prijsCent": 59
         }
       ]
     },
@@ -1583,7 +1758,7 @@
       ]
     },
     "Rode ui": {
-      "gramPerStuk": null,
+      "gramPerStuk": 100,
       "maten": [
         {
           "product": "wi490280",
@@ -1598,7 +1773,7 @@
       ]
     },
     "Romaine sla": {
-      "gramPerStuk": null,
+      "gramPerStuk": 200,
       "maten": [
         {
           "product": "wi193245",
@@ -1609,6 +1784,21 @@
             "eenheid": "g"
           },
           "prijsCent": 299
+        }
+      ]
+    },
+    "Romatomaat": {
+      "gramPerStuk": 80,
+      "maten": [
+        {
+          "product": "wi67874",
+          "naam": "AH Roma tomaten",
+          "inhoud": "750 g",
+          "verpakking": {
+            "hoeveelheid": 750,
+            "eenheid": "g"
+          },
+          "prijsCent": 265
         }
       ]
     },
@@ -1674,6 +1864,66 @@
             "eenheid": "g"
           },
           "prijsCent": 179
+        }
+      ]
+    },
+    "Runderbouillonblokje": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi492037",
+          "naam": "AH Bouillon rund",
+          "inhoud": "120 g",
+          "verpakking": {
+            "hoeveelheid": 6000,
+            "eenheid": "ml"
+          },
+          "prijsCent": 59
+        }
+      ]
+    },
+    "Rundergehakt": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi4011",
+          "naam": "AH Rundergehakt",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 649
+        },
+        {
+          "product": "wi549766",
+          "naam": "AH Rundergehakt",
+          "inhoud": "175 g",
+          "verpakking": {
+            "hoeveelheid": 175,
+            "eenheid": "g"
+          },
+          "prijsCent": 319
+        },
+        {
+          "product": "wi4004",
+          "naam": "AH Rundergehakt",
+          "inhoud": "300 g",
+          "verpakking": {
+            "hoeveelheid": 300,
+            "eenheid": "g"
+          },
+          "prijsCent": 499
+        },
+        {
+          "product": "wi3954",
+          "naam": "AH Rundergehakt",
+          "inhoud": "1000 g",
+          "verpakking": {
+            "hoeveelheid": 1000,
+            "eenheid": "g"
+          },
+          "prijsCent": 1149
         }
       ]
     },
@@ -1817,6 +2067,21 @@
         }
       ]
     },
+    "Tacokruiden": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi140615",
+          "naam": "AH Taco seasoning mix",
+          "inhoud": "35 g",
+          "verpakking": {
+            "hoeveelheid": 55,
+            "eenheid": "ml"
+          },
+          "prijsCent": 69
+        }
+      ]
+    },
     "Tomaat": {
       "gramPerStuk": 100,
       "maten": [
@@ -1862,6 +2127,21 @@
         }
       ]
     },
+    "Tomatensalsa (pot)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi31473",
+          "naam": "AH Salsa Mild",
+          "inhoud": "300 g",
+          "verpakking": {
+            "hoeveelheid": 300,
+            "eenheid": "g"
+          },
+          "prijsCent": 119
+        }
+      ]
+    },
     "Tomato frito met basilicum": {
       "gramPerStuk": null,
       "maten": [
@@ -1874,6 +2154,36 @@
             "eenheid": "g"
           },
           "prijsCent": 165
+        }
+      ]
+    },
+    "Tonijn in water (blik)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi420789",
+          "naam": "Statesman Tonijn stukken in water",
+          "inhoud": "160 g",
+          "verpakking": {
+            "hoeveelheid": 160,
+            "eenheid": "g"
+          },
+          "prijsCent": 135
+        }
+      ]
+    },
+    "Tortillachips": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi449006",
+          "naam": "AH Tortilla chips naturel",
+          "inhoud": "200 g",
+          "verpakking": {
+            "hoeveelheid": 200,
+            "eenheid": "g"
+          },
+          "prijsCent": 79
         }
       ]
     },
@@ -1904,6 +2214,21 @@
             "eenheid": "g"
           },
           "prijsCent": 119
+        }
+      ]
+    },
+    "Tostada": {
+      "gramPerStuk": 12,
+      "maten": [
+        {
+          "product": "wi591895",
+          "naam": "La Morena Tostada",
+          "inhoud": "72 g",
+          "verpakking": {
+            "hoeveelheid": 72,
+            "eenheid": "g"
+          },
+          "prijsCent": 259
         }
       ]
     },
@@ -1967,6 +2292,21 @@
         }
       ]
     },
+    "Varkensgehakt": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi619322",
+          "naam": "AH Varkensgehakt",
+          "inhoud": "300 g",
+          "verpakking": {
+            "hoeveelheid": 300,
+            "eenheid": "g"
+          },
+          "prijsCent": 299
+        }
+      ]
+    },
     "Veldsla": {
       "gramPerStuk": null,
       "maten": [
@@ -1989,6 +2329,21 @@
             "eenheid": "g"
           },
           "prijsCent": 219
+        }
+      ]
+    },
+    "Vermicelli": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi3325",
+          "naam": "Honig Krulvermicelli middel",
+          "inhoud": "250 g",
+          "verpakking": {
+            "hoeveelheid": 250,
+            "eenheid": "g"
+          },
+          "prijsCent": 139
         }
       ]
     },
@@ -2038,7 +2393,7 @@
       ]
     },
     "Verse koriander": {
-      "gramPerStuk": null,
+      "gramPerStuk": 2,
       "maten": [
         {
           "product": "wi238968",
@@ -2168,7 +2523,7 @@
       ]
     },
     "Wortel": {
-      "gramPerStuk": null,
+      "gramPerStuk": 100,
       "maten": [
         {
           "product": "wi221495",
@@ -2349,6 +2704,31 @@
             "eenheid": "g"
           },
           "prijsCent": 179
+        }
+      ]
+    },
+    "Zwarte bonen (blik)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi188265",
+          "naam": "AH Terra Zwarte bonen",
+          "inhoud": "400 g",
+          "verpakking": {
+            "hoeveelheid": 400,
+            "eenheid": "g"
+          },
+          "prijsCent": 99
+        },
+        {
+          "product": "wi471758",
+          "naam": "AH Terra Zwarte bonen",
+          "inhoud": "200 g",
+          "verpakking": {
+            "hoeveelheid": 200,
+            "eenheid": "g"
+          },
+          "prijsCent": 79
         }
       ]
     }
