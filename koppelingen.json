@@ -73,7 +73,14 @@
       "product": "wi571286",
       "andereMaten": [],
       "gramPerStuk": null,
-      "verpakking": null
+      "verpakking": null,
+      "handmatig": {
+        "naam": "AH Excellent Bavette",
+        "inhoud": "700 g",
+        "prijsCent": 2999,
+        "gezien": "2026-11-15",
+        "gaatVoor": true
+      }
     },
     "Blanke hazelnoten": {
       "product": "wi520109",

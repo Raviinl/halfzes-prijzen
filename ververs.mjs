@@ -57,7 +57,8 @@ for (const [boodschap, koppeling] of Object.entries(koppelingen)) {
       index === 0 && koppeling.handmatig
         ? { id, naam: koppeling.handmatig.naam, inhoud: koppeling.handmatig.inhoud, prijs: koppeling.handmatig.prijsCent / 100 }
         : undefined;
-    const product = opId.get(id) ?? handmatig;
+    // Loopt het productbestand achter en is het product zelf nagekeken ('gaatVoor'), dan geldt de koppeling.
+    const product = (handmatig && koppeling.handmatig.gaatVoor ? handmatig : undefined) ?? opId.get(id) ?? handmatig;
     // Bij de hoofdmaat mag de koppeling zelf zeggen wat er in de verpakking zit (tenen in een bol knoflook).
     const verpakking = product && ((index === 0 && koppeling.verpakking) || leesInhoud(product.inhoud));
     if (!product || !verpakking || !(product.prijs > 0)) continue;
