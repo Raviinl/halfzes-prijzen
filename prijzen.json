@@ -1862,6 +1862,21 @@
         }
       ]
     },
+    "Merguezworstje": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi519409",
+          "naam": "Wahid Halal kipmerguez",
+          "inhoud": "per stuk",
+          "verpakking": {
+            "hoeveelheid": 6,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 499
+        }
+      ]
+    },
     "Mini wrap": {
       "gramPerStuk": 29,
       "maten": [

@@ -796,10 +796,13 @@
       "verpakking": null
     },
     "Merguezworstje": {
-      "product": null,
+      "product": "wi519409",
       "andereMaten": [],
       "gramPerStuk": null,
-      "verpakking": null
+      "verpakking": {
+        "hoeveelheid": 6,
+        "eenheid": "stuk"
+      }
     },
     "Mexicaanse oregano": {
       "product": null,
