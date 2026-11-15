@@ -159,7 +159,7 @@
       }
     },
     "Chipotlepoeder": {
-      "product": "wi589857",
+      "product": null,
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -628,21 +628,11 @@
     },
     "Mais (blik)": {
       "product": "wi800",
-      "andereMaten": [],
+      "andereMaten": [
+        "wi509288"
+      ],
       "gramPerStuk": null,
       "verpakking": null
-    },
-    "Mais (diepvries)": {
-      "product": "wi550324",
-      "andereMaten": [],
-      "gramPerStuk": null,
-      "verpakking": null,
-      "handmatig": {
-        "naam": "AH Maïskorrels",
-        "inhoud": "450 g",
-        "prijsCent": 159,
-        "gezien": "2026-11-15"
-      }
     },
     "Maistortilla": {
       "product": "wi450151",
@@ -698,7 +688,7 @@
     "Mozzarella (plakken)": {
       "product": "wi513429",
       "andereMaten": [],
-      "gramPerStuk": 25,
+      "gramPerStuk": 30,
       "verpakking": null
     },
     "Nasigroente": {
@@ -767,10 +757,16 @@
       "verpakking": null
     },
     "Pastaschelpen": {
-      "product": "wi62414",
+      "product": "wi614220",
       "andereMaten": [],
       "gramPerStuk": null,
-      "verpakking": null
+      "verpakking": null,
+      "handmatig": {
+        "naam": "La Molisana Conchiglie rigate",
+        "inhoud": "500 g",
+        "prijsCent": 249,
+        "gezien": "2026-11-15"
+      }
     },
     "Pastinaak": {
       "product": "wi203003",
@@ -1113,7 +1109,7 @@
     "Varkensfiletlap": {
       "product": "wi4046",
       "andereMaten": [],
-      "gramPerStuk": 130,
+      "gramPerStuk": 137,
       "verpakking": null
     },
     "Varkensgehakt": {

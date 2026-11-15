@@ -337,21 +337,6 @@
         }
       ]
     },
-    "Chipotlepoeder": {
-      "gramPerStuk": null,
-      "maten": [
-        {
-          "product": "wi589857",
-          "naam": "Mill & Mortar Chipotle chili korrels",
-          "inhoud": "40 g",
-          "verpakking": {
-            "hoeveelheid": 40,
-            "eenheid": "g"
-          },
-          "prijsCent": 669
-        }
-      ]
-    },
     "Citroen": {
       "gramPerStuk": 45,
       "maten": [
@@ -1509,21 +1494,16 @@
             "eenheid": "g"
           },
           "prijsCent": 119
-        }
-      ]
-    },
-    "Mais (diepvries)": {
-      "gramPerStuk": null,
-      "maten": [
+        },
         {
-          "product": "wi550324",
-          "naam": "AH Maïskorrels",
+          "product": "wi509288",
+          "naam": "AH Maiskorrels fris en knapperig 3-pack",
           "inhoud": "450 g",
           "verpakking": {
             "hoeveelheid": 450,
             "eenheid": "g"
           },
-          "prijsCent": 159
+          "prijsCent": 199
         }
       ]
     },
@@ -1623,7 +1603,7 @@
       ]
     },
     "Mozzarella (plakken)": {
-      "gramPerStuk": 25,
+      "gramPerStuk": 30,
       "maten": [
         {
           "product": "wi513429",
@@ -1821,14 +1801,14 @@
       "gramPerStuk": null,
       "maten": [
         {
-          "product": "wi62414",
-          "naam": "AH Biologisch Schelpjes pasta",
+          "product": "wi614220",
+          "naam": "La Molisana Conchiglie rigate",
           "inhoud": "500 g",
           "verpakking": {
             "hoeveelheid": 500,
             "eenheid": "g"
           },
-          "prijsCent": 139
+          "prijsCent": 249
         }
       ]
     },
@@ -2663,7 +2643,7 @@
       ]
     },
     "Varkensfiletlap": {
-      "gramPerStuk": 130,
+      "gramPerStuk": 137,
       "maten": [
         {
           "product": "wi4046",
