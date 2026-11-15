@@ -31,10 +31,22 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Avocado-olie": {
+      "product": "wi575769",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Bacon (plakken)": {
       "product": "wi543389",
       "andereMaten": [],
       "gramPerStuk": 12,
+      "verpakking": null
+    },
+    "Bakspray": {
+      "product": "wi224586",
+      "andereMaten": [],
+      "gramPerStuk": null,
       "verpakking": null
     },
     "Bavette": {
@@ -96,6 +108,14 @@
       "gramPerStuk": 250,
       "verpakking": null
     },
+    "Cannellinibonen (blik)": {
+      "product": "wi188266",
+      "andereMaten": [
+        "wi471751"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Cherrytomaten (blik)": {
       "product": "wi591868",
       "andereMaten": [],
@@ -114,6 +134,18 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Chimichurri": {
+      "product": "wi572078",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "AH Kleintje chimichurri",
+        "inhoud": "50 g",
+        "prijsCent": 149,
+        "gezien": "2026-11-15"
+      }
+    },
     "Chipotle in adobo (blik)": {
       "product": "wi449835",
       "andereMaten": [],
@@ -126,6 +158,12 @@
         "gezien": "2026-11-15"
       }
     },
+    "Chipotlepoeder": {
+      "product": "wi589857",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Citroen": {
       "product": "wi230708",
       "andereMaten": [],
@@ -134,6 +172,12 @@
     },
     "Cornflakes": {
       "product": "wi471004",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Cotija": {
+      "product": null,
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -308,6 +352,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Groene chilipepers in blokjes (blik)": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Groene pesto": {
       "product": "wi170655",
       "andereMaten": [],
@@ -326,7 +376,7 @@
     "Grote gamba's": {
       "product": "wi97361",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 20,
       "verpakking": null
     },
     "Guacamole": {
@@ -364,6 +414,23 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Havermout": {
+      "product": "wi509276",
+      "andereMaten": [
+        "wi569945"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Hele kip": {
+      "product": "wi165536",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 1,
+        "eenheid": "stuk"
+      }
+    },
     "Honing": {
       "product": "wi479788",
       "andereMaten": [],
@@ -387,6 +454,14 @@
     "Hüttenkäse": {
       "product": "wi595367",
       "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "IJsbergsla": {
+      "product": "wi193247",
+      "andereMaten": [
+        "wi517597"
+      ],
       "gramPerStuk": null,
       "verpakking": null
     },
@@ -429,6 +504,15 @@
       "product": "wi388293",
       "andereMaten": [],
       "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kipdijfilet": {
+      "product": "wi197231",
+      "andereMaten": [
+        "wi531848",
+        "wi531826"
+      ],
+      "gramPerStuk": 120,
       "verpakking": null
     },
     "Kipfilet": {
@@ -548,6 +632,18 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Mais (diepvries)": {
+      "product": "wi550324",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "AH Maïskorrels",
+        "inhoud": "450 g",
+        "prijsCent": 159,
+        "gezien": "2026-11-15"
+      }
+    },
     "Maistortilla": {
       "product": "wi450151",
       "andereMaten": [],
@@ -559,6 +655,12 @@
         "prijsCent": 299,
         "gezien": "2026-11-15"
       }
+    },
+    "Mango": {
+      "product": "wi93224",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
     },
     "Mayonaise": {
       "product": "wi425942",
@@ -591,6 +693,12 @@
       "product": "wi436523",
       "andereMaten": [],
       "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Mozzarella (plakken)": {
+      "product": "wi513429",
+      "andereMaten": [],
+      "gramPerStuk": 25,
       "verpakking": null
     },
     "Nasigroente": {
@@ -658,6 +766,18 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Pastaschelpen": {
+      "product": "wi575921",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "Liguori Conchiglie rigate no 48",
+        "inhoud": "500 g",
+        "prijsCent": 239,
+        "gezien": "2026-11-15"
+      }
+    },
     "Pastinaak": {
       "product": "wi203003",
       "andereMaten": [],
@@ -708,6 +828,18 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Refried beans (blik)": {
+      "product": "wi450140",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "La Morena Bayo bonenspread",
+        "inhoud": "440 g",
+        "prijsCent": 299,
+        "gezien": "2026-11-15"
+      }
+    },
     "Ricotta": {
       "product": "wi497560",
       "andereMaten": [],
@@ -734,6 +866,12 @@
       "gramPerStuk": 100,
       "verpakking": null
     },
+    "Rode wijnazijn": {
+      "product": "wi58479",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Romaine sla": {
       "product": "wi193245",
       "andereMaten": [],
@@ -751,6 +889,18 @@
       "andereMaten": [
         "wi127487"
       ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Roomkaas": {
+      "product": "wi506228",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Roomkaas light": {
+      "product": "wi506229",
+      "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
     },
@@ -801,6 +951,14 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Slagroom": {
+      "product": "wi509633",
+      "andereMaten": [
+        "wi509634"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Smaakverfijner": {
       "product": "wi37235",
       "andereMaten": [],
@@ -809,6 +967,12 @@
     },
     "Sojasaus": {
       "product": "wi496227",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Sojasaus minder zout": {
+      "product": "wi182796",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -863,6 +1027,14 @@
     "Tomatenketchup": {
       "product": "wi122778",
       "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tomatenpuree": {
+      "product": "wi2226",
+      "andereMaten": [
+        "wi3527"
+      ],
       "gramPerStuk": null,
       "verpakking": null
     },
@@ -942,6 +1114,12 @@
       "product": "wi415006",
       "andereMaten": [],
       "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Varkensfiletlap": {
+      "product": "wi4046",
+      "andereMaten": [],
+      "gramPerStuk": 130,
       "verpakking": null
     },
     "Varkensgehakt": {
@@ -1093,6 +1271,15 @@
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
+    },
+    "Zuurdesembrood": {
+      "product": "wi581976",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 17,
+        "eenheid": "stuk"
+      }
     },
     "Zuurkool": {
       "product": "wi525272",
