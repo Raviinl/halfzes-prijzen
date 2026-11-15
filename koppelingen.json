@@ -1,0 +1,906 @@
+{
+  "uitleg": "Per product het AH-product waarmee de prijs wordt berekend. 'andereMaten' zijn dezelfde producten in een andere verpakkingsmaat.",
+  "koppelingen": {
+    "Amandelschaafsel": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ananas": {
+      "product": "wi133713",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Appel": {
+      "product": "wi444756",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Artisjokharten (pot)": {
+      "product": "wi104261",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Avocado": {
+      "product": "wi169797",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Bacon (plakken)": {
+      "product": "wi543389",
+      "andereMaten": [],
+      "gramPerStuk": 12,
+      "verpakking": null
+    },
+    "Blanke hazelnoten": {
+      "product": "wi520109",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Bleekselderij": {
+      "product": "wi4178",
+      "andereMaten": [],
+      "gramPerStuk": 500,
+      "verpakking": null
+    },
+    "Bloem": {
+      "product": "wi952",
+      "andereMaten": [
+        "wi951"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Bloemkool": {
+      "product": "wi4183",
+      "andereMaten": [],
+      "gramPerStuk": 800,
+      "verpakking": null
+    },
+    "Boerenkool": {
+      "product": "wi395939",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Bosui": {
+      "product": "wi169813",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 5,
+        "eenheid": "stuk"
+      }
+    },
+    "Brood": {
+      "product": "wi446410",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Burrata": {
+      "product": "wi560692",
+      "andereMaten": [],
+      "gramPerStuk": 250,
+      "verpakking": null
+    },
+    "Cherrytomaten (blik)": {
+      "product": "wi591868",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Chilivlokken": {
+      "product": "wi234759",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Citroen": {
+      "product": "wi230708",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Cornflakes": {
+      "product": "wi471004",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Courgette": {
+      "product": "wi4164",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Crème fraîche": {
+      "product": "wi46745",
+      "andereMaten": [
+        "wi3868"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Dijonmosterd": {
+      "product": "wi162054",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Doperwten": {
+      "product": "wi838",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Droge witte wijn": {
+      "product": "wi222359",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ei": {
+      "product": "wi1521",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Falafelmix": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Farro": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Feta": {
+      "product": "wi462468",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gedroogde oregano": {
+      "product": "wi414969",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gedroogde rozemarijn": {
+      "product": "wi216616",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gedroogde tijm": {
+      "product": "wi216629",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gele currypasta": {
+      "product": "wi368566",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gemalen chilipeper": {
+      "product": "wi570444",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gemengde sla": {
+      "product": "wi160705",
+      "andereMaten": [
+        "wi185200"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gepelde tomaten (blik)": {
+      "product": "wi803",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Geraspte kaas": {
+      "product": "wi419547",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Geraspte oude kaas": {
+      "product": "wi3853",
+      "andereMaten": [
+        "wi140100"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gerookt paprikapoeder": {
+      "product": "wi234766",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Granaatappelpitten": {
+      "product": "wi217024",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Griekse yoghurt": {
+      "product": "wi438678",
+      "andereMaten": [
+        "wi412578"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Groene asperges": {
+      "product": "wi215707",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Groene pesto": {
+      "product": "wi170655",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Groentebouillonblokje": {
+      "product": "wi492034",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 6000,
+        "eenheid": "ml"
+      }
+    },
+    "Grote gamba's": {
+      "product": "wi97361",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Half-om-half gehakt": {
+      "product": "wi4007",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Halfvolle melk": {
+      "product": "wi1525",
+      "andereMaten": [
+        "wi33691",
+        "wi33693"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Hamburgerbroodje": {
+      "product": "wi478210",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Haricots verts": {
+      "product": "wi164108",
+      "andereMaten": [
+        "wi53313"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Honing": {
+      "product": "wi479788",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Honingtomaten": {
+      "product": "wi436200",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Hummus": {
+      "product": "wi438961",
+      "andereMaten": [
+        "wi561000"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Hüttenkäse": {
+      "product": "wi595367",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Italiaanse kruiden": {
+      "product": "wi414961",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kaas (plakken)": {
+      "product": "wi2601",
+      "andereMaten": [
+        "wi59673",
+        "wi121168"
+      ],
+      "gramPerStuk": 22,
+      "verpakking": null
+    },
+    "Kabeljauwfilet met vel": {
+      "product": "wi121478",
+      "andereMaten": [
+        "wi416296"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kerriepoeder": {
+      "product": "wi197972",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ketjap manis": {
+      "product": "wi388293",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kipfilet": {
+      "product": "wi533079",
+      "andereMaten": [
+        "wi197183",
+        "wi533083"
+      ],
+      "gramPerStuk": 150,
+      "verpakking": null
+    },
+    "Kipgehakt": {
+      "product": "wi589120",
+      "andereMaten": [
+        "wi436917"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kippenbouillonblokje": {
+      "product": "wi492035",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 6000,
+        "eenheid": "ml"
+      }
+    },
+    "Knoflook": {
+      "product": "wi4160",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 20,
+        "eenheid": "stuk"
+      }
+    },
+    "Knoflookpoeder": {
+      "product": "wi197973",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kokosmelk": {
+      "product": "wi161932",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Komijn": {
+      "product": "wi570443",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Komkommer": {
+      "product": "wi54074",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kookroom": {
+      "product": "wi509631",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Koolvisfilet (diepvries)": {
+      "product": "wi39826",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Korianderpoeder": {
+      "product": "wi577694",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kruimige aardappel": {
+      "product": "wi123955",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kurkuma": {
+      "product": "wi485310",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Macaroni": {
+      "product": "wi375756",
+      "andereMaten": [
+        "wi543589"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Mais (blik)": {
+      "product": "wi800",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Mayonaise": {
+      "product": "wi425942",
+      "andereMaten": [
+        "wi903",
+        "wi904"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Merguezworstje": {
+      "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Mini wrap": {
+      "product": "wi164955",
+      "andereMaten": [],
+      "gramPerStuk": 29,
+      "verpakking": null
+    },
+    "Mosterd": {
+      "product": "wi436523",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Nasigroente": {
+      "product": "wi494452",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Nootmuskaat": {
+      "product": "wi477161",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Olijfolie": {
+      "product": "wi63361",
+      "andereMaten": [
+        "wi48897",
+        "wi58043"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Orzo": {
+      "product": "wi543585",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Oude kaas": {
+      "product": "wi486699",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Panko": {
+      "product": "wi203823",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Paprika": {
+      "product": "wi4117",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Paprikapoeder": {
+      "product": "wi197977",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Parmezaanse kaas": {
+      "product": "wi143821",
+      "andereMaten": [
+        "wi163822"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Pastinaak": {
+      "product": "wi203003",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Pitabrood": {
+      "product": "wi221857",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Pompoen": {
+      "product": "wi118083",
+      "andereMaten": [],
+      "gramPerStuk": 1000,
+      "verpakking": null
+    },
+    "Pompoenblokjes": {
+      "product": "wi482844",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Prei": {
+      "product": "wi171425",
+      "andereMaten": [
+        "wi172451"
+      ],
+      "gramPerStuk": 200,
+      "verpakking": null
+    },
+    "Puntpaprika": {
+      "product": "wi123865",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Rauwe garnalen": {
+      "product": "wi217010",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ricotta": {
+      "product": "wi497560",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Risottorijst": {
+      "product": "wi124193",
+      "andereMaten": [
+        "wi525399"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Rode peper": {
+      "product": "wi594651",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Rode ui": {
+      "product": "wi490280",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Romaine sla": {
+      "product": "wi193245",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Roomboter": {
+      "product": "wi1531",
+      "andereMaten": [
+        "wi127487"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Rozijnen": {
+      "product": "wi164746",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Rucola": {
+      "product": "wi111767",
+      "andereMaten": [
+        "wi168092"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Runderhamburger": {
+      "product": "wi103377",
+      "andereMaten": [
+        "wi169238"
+      ],
+      "gramPerStuk": 100,
+      "verpakking": null
+    },
+    "Sesamolie": {
+      "product": "wi496224",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Smaakverfijner": {
+      "product": "wi37235",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Sojasaus": {
+      "product": "wi496227",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Spaghetti": {
+      "product": "wi543649",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Spekjes": {
+      "product": "wi130250",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Sperziebonen": {
+      "product": "wi395946",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Spinazie": {
+      "product": "wi395960",
+      "andereMaten": [
+        "wi160707"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tomaat": {
+      "product": "wi4088",
+      "andereMaten": [],
+      "gramPerStuk": 100,
+      "verpakking": null
+    },
+    "Tomatenblokjes (blik)": {
+      "product": "wi30851",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tomatenketchup": {
+      "product": "wi122778",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tomato frito met basilicum": {
+      "product": "wi577546",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tortillawrap": {
+      "product": "wi136836",
+      "andereMaten": [],
+      "gramPerStuk": 40,
+      "verpakking": null
+    },
+    "Tortillawrap (klein)": {
+      "product": "wi164955",
+      "andereMaten": [],
+      "gramPerStuk": 29,
+      "verpakking": null
+    },
+    "Trassi": {
+      "product": "wi165009",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tzatziki": {
+      "product": "wi494566",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ui": {
+      "product": "wi525847",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Uienpoeder": {
+      "product": "wi415006",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Veldsla": {
+      "product": "wi67593",
+      "andereMaten": [
+        "wi168091"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Verse basilicum": {
+      "product": "wi41172",
+      "andereMaten": [],
+      "gramPerStuk": 2,
+      "verpakking": null
+    },
+    "Verse bieslook": {
+      "product": "wi238965",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Verse gember": {
+      "product": "wi104818",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Verse koriander": {
+      "product": "wi238968",
+      "andereMaten": [
+        "wi207077"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Verse peterselie": {
+      "product": "wi238970",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Verse rozemarijn": {
+      "product": "wi238972",
+      "andereMaten": [],
+      "gramPerStuk": 2,
+      "verpakking": null
+    },
+    "Vissaus": {
+      "product": "wi496225",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Volkoren macaroni": {
+      "product": "wi543606",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Walnoten": {
+      "product": "wi140736",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Witte rijst": {
+      "product": "wi421641",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Witte wijnazijn": {
+      "product": "wi185775",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Wortel": {
+      "product": "wi221495",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zachte geitenkaas": {
+      "product": "wi396969",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zalmfilet": {
+      "product": "wi51335",
+      "andereMaten": [
+        "wi121453",
+        "wi135757",
+        "wi142193"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zilvervliesrijst": {
+      "product": "wi36488",
+      "andereMaten": [
+        "wi162513"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zoete aardappel": {
+      "product": "wi164358",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zongedroogde tomaat": {
+      "product": "wi416509",
+      "andereMaten": [],
+      "gramPerStuk": 10,
+      "verpakking": null
+    },
+    "Zonnebloemolie": {
+      "product": "wi906",
+      "andereMaten": [
+        "wi575766"
+      ],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zure room": {
+      "product": "wi3869",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Zuurkool": {
+      "product": "wi525272",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    }
+  }
+}
