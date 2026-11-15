@@ -90,7 +90,7 @@
     "Bosui": {
       "product": "wi169813",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 12,
       "verpakking": {
         "hoeveelheid": 5,
         "eenheid": "stuk"
@@ -1101,7 +1101,7 @@
     "Ui": {
       "product": "wi525847",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 100,
       "verpakking": null
     },
     "Uienpoeder": {
@@ -1171,7 +1171,7 @@
     "Verse peterselie": {
       "product": "wi238970",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 2,
       "verpakking": null
     },
     "Verse rozemarijn": {

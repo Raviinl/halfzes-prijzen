@@ -208,7 +208,7 @@
       ]
     },
     "Bosui": {
-      "gramPerStuk": null,
+      "gramPerStuk": 12,
       "maten": [
         {
           "product": "wi169813",
@@ -2633,7 +2633,7 @@
       ]
     },
     "Ui": {
-      "gramPerStuk": null,
+      "gramPerStuk": 100,
       "maten": [
         {
           "product": "wi525847",
@@ -2803,7 +2803,7 @@
       ]
     },
     "Verse peterselie": {
-      "gramPerStuk": null,
+      "gramPerStuk": 2,
       "maten": [
         {
           "product": "wi238970",
