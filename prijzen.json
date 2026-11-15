@@ -877,6 +877,21 @@
         }
       ]
     },
+    "Groene linzen (gedroogd)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi469874",
+          "naam": "AH Terra Biologisch groene linzen",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 199
+        }
+      ]
+    },
     "Groene paprika": {
       "gramPerStuk": null,
       "maten": [

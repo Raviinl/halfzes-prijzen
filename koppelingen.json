@@ -423,10 +423,16 @@
       "verpakking": null
     },
     "Groene linzen (gedroogd)": {
-      "product": null,
+      "product": "wi469874",
       "andereMaten": [],
       "gramPerStuk": null,
-      "verpakking": null
+      "verpakking": null,
+      "handmatig": {
+        "naam": "AH Terra Biologisch groene linzen",
+        "inhoud": "500 g",
+        "prijsCent": 199,
+        "gezien": "2026-11-15"
+      }
     },
     "Groene paprika": {
       "product": "wi368706",
@@ -664,12 +670,6 @@
     },
     "Kippenbouillonpoeder": {
       "product": "wi189390",
-      "andereMaten": [],
-      "gramPerStuk": null,
-      "verpakking": null
-    },
-    "Kippendij met bot": {
-      "product": null,
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
