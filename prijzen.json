@@ -2132,6 +2132,21 @@
         }
       ]
     },
+    "Piment (heel, zelf malen)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi234772",
+          "naam": "Verstegen Piment heel",
+          "inhoud": "28 g",
+          "verpakking": {
+            "hoeveelheid": 28,
+            "eenheid": "g"
+          },
+          "prijsCent": 399
+        }
+      ]
+    },
     "Pitabrood": {
       "gramPerStuk": null,
       "maten": [

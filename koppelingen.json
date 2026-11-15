@@ -344,12 +344,6 @@
       "gramPerStuk": null,
       "verpakking": null
     },
-    "Gemalen piment": {
-      "product": null,
-      "andereMaten": [],
-      "gramPerStuk": null,
-      "verpakking": null
-    },
     "Gemengde sla": {
       "product": "wi160705",
       "andereMaten": [
@@ -912,6 +906,18 @@
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
+    },
+    "Piment (heel, zelf malen)": {
+      "product": "wi234772",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null,
+      "handmatig": {
+        "naam": "Verstegen Piment heel",
+        "inhoud": "28 g",
+        "prijsCent": 399,
+        "gezien": "2026-11-15"
+      }
     },
     "Pitabrood": {
       "product": "wi221857",
