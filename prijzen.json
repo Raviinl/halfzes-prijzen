@@ -1,5 +1,5 @@
 {
-  "datum": "2026-11-15",
+  "datum": "2026-11-16",
   "bron": "Checkjebon (checkjebon.nl), prijzen van Albert Heijn",
   "producten": {
     "Ananas": {
@@ -2744,6 +2744,21 @@
             "eenheid": "g"
           },
           "prijsCent": 479
+        }
+      ]
+    },
+    "Kalkoenspek": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi483300",
+          "naam": "AH Magere spekreepjes kalkoen",
+          "inhoud": "150 g",
+          "verpakking": {
+            "hoeveelheid": 150,
+            "eenheid": "g"
+          },
+          "prijsCent": 369
         }
       ]
     },
