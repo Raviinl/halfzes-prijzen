@@ -55,8 +55,20 @@
       "gramPerStuk": 12,
       "verpakking": null
     },
+    "Baharat": {
+      "product": "wi575496",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Bakspray": {
       "product": "wi224586",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Balsamicoazijn": {
+      "product": "wi163560",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -91,8 +103,11 @@
     "Bleekselderij": {
       "product": "wi4178",
       "andereMaten": [],
-      "gramPerStuk": 500,
-      "verpakking": null
+      "gramPerStuk": 60,
+      "verpakking": {
+        "hoeveelheid": 8,
+        "eenheid": "stuk"
+      }
     },
     "Bloem": {
       "product": "wi952",
@@ -123,6 +138,12 @@
         "eenheid": "stuk"
       }
     },
+    "Broccoliroosjes": {
+      "product": "wi395954",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Brood": {
       "product": "wi446410",
       "andereMaten": [],
@@ -146,6 +167,14 @@
     "Cayennepeper": {
       "product": "wi570444",
       "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Champignons": {
+      "product": "wi4169",
+      "andereMaten": [
+        "wi67842"
+      ],
       "gramPerStuk": null,
       "verpakking": null
     },
@@ -291,6 +320,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Gedroogde abrikozen": {
+      "product": "wi388601",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Gedroogde marjolein": {
       "product": "wi386199",
       "andereMaten": [],
@@ -351,6 +386,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Gemberpoeder": {
+      "product": "wi577692",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Gemengde sla": {
       "product": "wi160705",
       "andereMaten": [
@@ -387,6 +428,18 @@
     },
     "Gerookt paprikapoeder": {
       "product": "wi234766",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ghee": {
+      "product": "wi466153",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Gnocchi": {
+      "product": "wi210482",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -599,7 +652,7 @@
     "Kalamata-olijven": {
       "product": "wi199922",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 4,
       "verpakking": null
     },
     "Kaneel": {
@@ -612,6 +665,12 @@
       "product": "wi414963",
       "andereMaten": [],
       "gramPerStuk": 4,
+      "verpakking": null
+    },
+    "Kappertjes": {
+      "product": "wi62825",
+      "andereMaten": [],
+      "gramPerStuk": null,
       "verpakking": null
     },
     "Kerriepoeder": {
@@ -675,6 +734,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Kippenbout": {
+      "product": "wi531855",
+      "andereMaten": [],
+      "gramPerStuk": 350,
+      "verpakking": null
+    },
     "Knoflook": {
       "product": "wi4160",
       "andereMaten": [],
@@ -686,6 +751,12 @@
     },
     "Knoflookpoeder": {
       "product": "wi197973",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Kogelbiefstuk": {
+      "product": "wi123836",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -722,6 +793,12 @@
     },
     "Korianderpoeder": {
       "product": "wi577694",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Krieltjes": {
+      "product": "wi67907",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -779,6 +856,12 @@
         "prijsCent": 299,
         "gezien": "2026-11-15"
       }
+    },
+    "Maizena": {
+      "product": "wi233263",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
     },
     "Mango": {
       "product": "wi93224",
@@ -861,6 +944,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Pancettablokjes": {
+      "product": "wi563343",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Paneermeel": {
       "product": "wi954",
       "andereMaten": [],
@@ -881,6 +970,12 @@
     },
     "Paprikapoeder": {
       "product": "wi197977",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Parelgort (geparelde gerst)": {
+      "product": "wi467621",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -913,6 +1008,18 @@
     },
     "Pastinaak": {
       "product": "wi203003",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Pecorino romano": {
+      "product": "wi163821",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Penne": {
+      "product": "wi62027",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -963,6 +1070,12 @@
     },
     "Queso fresco": {
       "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ras el hanout": {
+      "product": "wi575490",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -1123,6 +1236,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Sjalot": {
+      "product": "wi525846",
+      "andereMaten": [],
+      "gramPerStuk": 35,
+      "verpakking": null
+    },
     "Slagroom": {
       "product": "wi509633",
       "andereMaten": [
@@ -1135,6 +1254,14 @@
       "product": "wi37235",
       "andereMaten": [],
       "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Snoeppaprika": {
+      "product": "wi502289",
+      "andereMaten": [
+        "wi490797"
+      ],
+      "gramPerStuk": 30,
       "verpakking": null
     },
     "Sojasaus": {
@@ -1226,6 +1353,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Tomatenpulp (polpa)": {
+      "product": "wi591683",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Tomatenpuree": {
       "product": "wi2226",
       "andereMaten": [
@@ -1236,6 +1369,12 @@
     },
     "Tomatensalsa (pot)": {
       "product": "wi31473",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Tomatensaus met basilicum (pot)": {
+      "product": "wi556728",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
@@ -1346,6 +1485,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Venkel": {
+      "product": "wi226181",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Vermicelli": {
       "product": "wi3325",
       "andereMaten": [],
@@ -1382,6 +1527,14 @@
         "wi207077"
       ],
       "gramPerStuk": 2,
+      "verpakking": null
+    },
+    "Verse munt": {
+      "product": "wi238969",
+      "andereMaten": [
+        "wi207061"
+      ],
+      "gramPerStuk": null,
       "verpakking": null
     },
     "Verse peterselie": {
@@ -1440,6 +1593,12 @@
       "gramPerStuk": null,
       "verpakking": null
     },
+    "Worcestersaus": {
+      "product": "wi103",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
     "Wortel": {
       "product": "wi221495",
       "andereMaten": [],
@@ -1473,7 +1632,7 @@
     "Zoete aardappel": {
       "product": "wi164358",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 300,
       "verpakking": null
     },
     "Zongedroogde tomaat": {
