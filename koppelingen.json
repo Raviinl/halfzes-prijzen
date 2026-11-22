@@ -1687,7 +1687,7 @@
     "Ribkarbonade": {
       "product": "wi4033",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 150,
       "verpakking": null
     },
     "Braadworst": {
@@ -1701,7 +1701,7 @@
     "Prosciutto": {
       "product": "wi479368",
       "andereMaten": [],
-      "gramPerStuk": 12,
+      "gramPerStuk": 14,
       "verpakking": null
     },
     "Verse salie": {
@@ -1721,7 +1721,7 @@
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": {
-        "hoeveelheid": 54,
+        "hoeveelheid": 45,
         "eenheid": "ml"
       }
     },
@@ -1745,6 +1745,12 @@
     },
     "Pico de gallo": {
       "product": null,
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Entrecote": {
+      "product": "wi574189",
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
