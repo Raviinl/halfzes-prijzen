@@ -1750,10 +1750,17 @@
       "verpakking": null
     },
     "Entrecote": {
-      "product": "wi574189",
+      "product": "wi143094",
       "andereMaten": [],
       "gramPerStuk": null,
-      "verpakking": null
+      "verpakking": null,
+      "handmatig": {
+        "naam": "AH Excellent Entrecote",
+        "inhoud": "320 g",
+        "prijsCent": 1449,
+        "gezien": "2026-11-22",
+        "gaatVoor": true
+      }
     }
   }
 }
