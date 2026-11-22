@@ -1552,7 +1552,7 @@
     "Verse tijm": {
       "product": "wi238974",
       "andereMaten": [],
-      "gramPerStuk": null,
+      "gramPerStuk": 1,
       "verpakking": null
     },
     "Vissaus": {
@@ -1680,6 +1680,71 @@
     },
     "Couscous": {
       "product": "wi525361",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Ribkarbonade": {
+      "product": "wi4033",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Braadworst": {
+      "product": "wi169422",
+      "andereMaten": [
+        "wi169421"
+      ],
+      "gramPerStuk": 100,
+      "verpakking": null
+    },
+    "Prosciutto": {
+      "product": "wi479368",
+      "andereMaten": [],
+      "gramPerStuk": 12,
+      "verpakking": null
+    },
+    "Verse salie": {
+      "product": "wi200547",
+      "andereMaten": [],
+      "gramPerStuk": 0.5,
+      "verpakking": null
+    },
+    "Ansjovisfilets": {
+      "product": "wi438922",
+      "andereMaten": [],
+      "gramPerStuk": 4,
+      "verpakking": null
+    },
+    "Za'atar": {
+      "product": "wi518842",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": {
+        "hoeveelheid": 54,
+        "eenheid": "ml"
+      }
+    },
+    "Venkelzaad": {
+      "product": "wi223827",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Farfalle": {
+      "product": "wi62025",
+      "andereMaten": [],
+      "gramPerStuk": null,
+      "verpakking": null
+    },
+    "Groene olijven": {
+      "product": "wi199923",
+      "andereMaten": [],
+      "gramPerStuk": 4,
+      "verpakking": null
+    },
+    "Pico de gallo": {
+      "product": null,
       "andereMaten": [],
       "gramPerStuk": null,
       "verpakking": null
