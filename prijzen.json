@@ -1,5 +1,5 @@
 {
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "bron": "Checkjebon (checkjebon.nl), prijzen van Albert Heijn",
   "producten": {
     "Ananas": {
@@ -107,6 +107,21 @@
         }
       ]
     },
+    "Baharat": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi575496",
+          "naam": "Euroma Baharat by Jonnie Boer",
+          "inhoud": "48 g",
+          "verpakking": {
+            "hoeveelheid": 48,
+            "eenheid": "g"
+          },
+          "prijsCent": 329
+        }
+      ]
+    },
     "Bakspray": {
       "gramPerStuk": null,
       "maten": [
@@ -119,6 +134,21 @@
             "eenheid": "ml"
           },
           "prijsCent": 265
+        }
+      ]
+    },
+    "Balsamicoazijn": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi163560",
+          "naam": "AH Biologisch Balsamico azijn",
+          "inhoud": "250 ml",
+          "verpakking": {
+            "hoeveelheid": 250,
+            "eenheid": "ml"
+          },
+          "prijsCent": 325
         }
       ]
     },
@@ -178,14 +208,14 @@
       ]
     },
     "Bleekselderij": {
-      "gramPerStuk": 500,
+      "gramPerStuk": 60,
       "maten": [
         {
           "product": "wi4178",
           "naam": "AH Bleekselderij",
           "inhoud": "per stuk",
           "verpakking": {
-            "hoeveelheid": 1,
+            "hoeveelheid": 8,
             "eenheid": "stuk"
           },
           "prijsCent": 125
@@ -262,6 +292,21 @@
         }
       ]
     },
+    "Broccoliroosjes": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi395954",
+          "naam": "AH Broccoliroosjes",
+          "inhoud": "400 g",
+          "verpakking": {
+            "hoeveelheid": 400,
+            "eenheid": "g"
+          },
+          "prijsCent": 219
+        }
+      ]
+    },
     "Brood": {
       "gramPerStuk": null,
       "maten": [
@@ -329,6 +374,31 @@
             "eenheid": "g"
           },
           "prijsCent": 69
+        }
+      ]
+    },
+    "Champignons": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi4169",
+          "naam": "AH Witte champignons",
+          "inhoud": "250 g",
+          "verpakking": {
+            "hoeveelheid": 250,
+            "eenheid": "g"
+          },
+          "prijsCent": 109
+        },
+        {
+          "product": "wi67842",
+          "naam": "AH Witte champignons",
+          "inhoud": "400 g",
+          "verpakking": {
+            "hoeveelheid": 400,
+            "eenheid": "g"
+          },
+          "prijsCent": 169
         }
       ]
     },
@@ -577,6 +647,21 @@
         }
       ]
     },
+    "Gedroogde abrikozen": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi388601",
+          "naam": "AH Gewelde gedroogde abrikozen",
+          "inhoud": "250 g",
+          "verpakking": {
+            "hoeveelheid": 250,
+            "eenheid": "g"
+          },
+          "prijsCent": 349
+        }
+      ]
+    },
     "Gedroogde marjolein": {
       "gramPerStuk": null,
       "maten": [
@@ -697,6 +782,21 @@
         }
       ]
     },
+    "Gemberpoeder": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi577692",
+          "naam": "Kokki Djawa Djahe",
+          "inhoud": "30 g",
+          "verpakking": {
+            "hoeveelheid": 30,
+            "eenheid": "g"
+          },
+          "prijsCent": 129
+        }
+      ]
+    },
     "Gemengde sla": {
       "gramPerStuk": null,
       "maten": [
@@ -804,6 +904,36 @@
             "eenheid": "g"
           },
           "prijsCent": 299
+        }
+      ]
+    },
+    "Ghee": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi466153",
+          "naam": "Lois Harmony Bio ghee geklaarde boter",
+          "inhoud": "220 g",
+          "verpakking": {
+            "hoeveelheid": 220,
+            "eenheid": "g"
+          },
+          "prijsCent": 669
+        }
+      ]
+    },
+    "Gnocchi": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi210482",
+          "naam": "AH Gnocchi",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 149
         }
       ]
     },
@@ -1333,7 +1463,7 @@
       ]
     },
     "Kalamata-olijven": {
-      "gramPerStuk": null,
+      "gramPerStuk": 4,
       "maten": [
         {
           "product": "wi199922",
@@ -1374,6 +1504,21 @@
             "eenheid": "g"
           },
           "prijsCent": 379
+        }
+      ]
+    },
+    "Kappertjes": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi62825",
+          "naam": "AH Kappertjes",
+          "inhoud": "100 g",
+          "verpakking": {
+            "hoeveelheid": 100,
+            "eenheid": "g"
+          },
+          "prijsCent": 79
         }
       ]
     },
@@ -1557,6 +1702,21 @@
         }
       ]
     },
+    "Kippenbout": {
+      "gramPerStuk": 350,
+      "maten": [
+        {
+          "product": "wi531855",
+          "naam": "AH Scharrel kippenbouten",
+          "inhoud": "ca. 1600 g",
+          "verpakking": {
+            "hoeveelheid": 1600,
+            "eenheid": "g"
+          },
+          "prijsCent": 790
+        }
+      ]
+    },
     "Knoflook": {
       "gramPerStuk": null,
       "maten": [
@@ -1584,6 +1744,21 @@
             "eenheid": "g"
           },
           "prijsCent": 75
+        }
+      ]
+    },
+    "Kogelbiefstuk": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi123836",
+          "naam": "AH Kogelbiefstuk",
+          "inhoud": "ca. 260 g",
+          "verpakking": {
+            "hoeveelheid": 260,
+            "eenheid": "g"
+          },
+          "prijsCent": 751
         }
       ]
     },
@@ -1674,6 +1849,21 @@
             "eenheid": "g"
           },
           "prijsCent": 129
+        }
+      ]
+    },
+    "Krieltjes": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi67907",
+          "naam": "AH Krieltjes",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 109
         }
       ]
     },
@@ -1809,6 +1999,21 @@
             "eenheid": "stuk"
           },
           "prijsCent": 299
+        }
+      ]
+    },
+    "Maizena": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi233263",
+          "naam": "Duryea Maizena",
+          "inhoud": "250 g",
+          "verpakking": {
+            "hoeveelheid": 250,
+            "eenheid": "g"
+          },
+          "prijsCent": 79
         }
       ]
     },
@@ -2017,6 +2222,21 @@
         }
       ]
     },
+    "Pancettablokjes": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi563343",
+          "naam": "AH Pancetta blokjes",
+          "inhoud": "100 g",
+          "verpakking": {
+            "hoeveelheid": 100,
+            "eenheid": "g"
+          },
+          "prijsCent": 249
+        }
+      ]
+    },
     "Paneermeel": {
       "gramPerStuk": null,
       "maten": [
@@ -2074,6 +2294,21 @@
             "eenheid": "g"
           },
           "prijsCent": 79
+        }
+      ]
+    },
+    "Parelgort (geparelde gerst)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi467621",
+          "naam": "Smaakt Gerst gepareld",
+          "inhoud": "400 g",
+          "verpakking": {
+            "hoeveelheid": 400,
+            "eenheid": "g"
+          },
+          "prijsCent": 189
         }
       ]
     },
@@ -2144,6 +2379,36 @@
             "eenheid": "g"
           },
           "prijsCent": 189
+        }
+      ]
+    },
+    "Pecorino romano": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi163821",
+          "naam": "AH Pecorino romano",
+          "inhoud": "ca. 190 g",
+          "verpakking": {
+            "hoeveelheid": 190,
+            "eenheid": "g"
+          },
+          "prijsCent": 699
+        }
+      ]
+    },
+    "Penne": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi62027",
+          "naam": "AH Penne",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 85
         }
       ]
     },
@@ -2244,6 +2509,21 @@
             "eenheid": "stuk"
           },
           "prijsCent": 185
+        }
+      ]
+    },
+    "Ras el hanout": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi575490",
+          "naam": "Euroma Ras el hanout by Jonnie Boer",
+          "inhoud": "49 g",
+          "verpakking": {
+            "hoeveelheid": 49,
+            "eenheid": "g"
+          },
+          "prijsCent": 329
         }
       ]
     },
@@ -2647,6 +2927,21 @@
         }
       ]
     },
+    "Sjalot": {
+      "gramPerStuk": 35,
+      "maten": [
+        {
+          "product": "wi525846",
+          "naam": "AH Sjalotten",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 139
+        }
+      ]
+    },
     "Slagroom": {
       "gramPerStuk": null,
       "maten": [
@@ -2684,6 +2979,31 @@
             "eenheid": "g"
           },
           "prijsCent": 165
+        }
+      ]
+    },
+    "Snoeppaprika": {
+      "gramPerStuk": 30,
+      "maten": [
+        {
+          "product": "wi502289",
+          "naam": "AH Snoepgroente paprikamix",
+          "inhoud": "175 g",
+          "verpakking": {
+            "hoeveelheid": 175,
+            "eenheid": "g"
+          },
+          "prijsCent": 219
+        },
+        {
+          "product": "wi490797",
+          "naam": "AH Snoepgroente paprikamix",
+          "inhoud": "300 g",
+          "verpakking": {
+            "hoeveelheid": 300,
+            "eenheid": "g"
+          },
+          "prijsCent": 269
         }
       ]
     },
@@ -2907,6 +3227,21 @@
         }
       ]
     },
+    "Tomatenpulp (polpa)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi591683",
+          "naam": "AH Polpa",
+          "inhoud": "400 g",
+          "verpakking": {
+            "hoeveelheid": 400,
+            "eenheid": "g"
+          },
+          "prijsCent": 99
+        }
+      ]
+    },
     "Tomatenpuree": {
       "gramPerStuk": null,
       "maten": [
@@ -2944,6 +3279,21 @@
             "eenheid": "g"
           },
           "prijsCent": 119
+        }
+      ]
+    },
+    "Tomatensaus met basilicum (pot)": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi556728",
+          "naam": "AH Pastasaus basilicum",
+          "inhoud": "520 g",
+          "verpakking": {
+            "hoeveelheid": 520,
+            "eenheid": "g"
+          },
+          "prijsCent": 149
         }
       ]
     },
@@ -3177,6 +3527,21 @@
         }
       ]
     },
+    "Venkel": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi226181",
+          "naam": "AH Venkel",
+          "inhoud": "per stuk",
+          "verpakking": {
+            "hoeveelheid": 1,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 89
+        }
+      ]
+    },
     "Vermicelli": {
       "gramPerStuk": null,
       "maten": [
@@ -3277,6 +3642,31 @@
         }
       ]
     },
+    "Verse munt": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi238969",
+          "naam": "AH Munt",
+          "inhoud": "15 g",
+          "verpakking": {
+            "hoeveelheid": 15,
+            "eenheid": "g"
+          },
+          "prijsCent": 119
+        },
+        {
+          "product": "wi207061",
+          "naam": "AH Munt grootverpakking",
+          "inhoud": "40 g",
+          "verpakking": {
+            "hoeveelheid": 40,
+            "eenheid": "g"
+          },
+          "prijsCent": 139
+        }
+      ]
+    },
     "Verse peterselie": {
       "gramPerStuk": 2,
       "maten": [
@@ -3308,7 +3698,7 @@
       ]
     },
     "Verse tijm": {
-      "gramPerStuk": null,
+      "gramPerStuk": 1,
       "maten": [
         {
           "product": "wi238974",
@@ -3422,6 +3812,21 @@
         }
       ]
     },
+    "Worcestersaus": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi103",
+          "naam": "Lea & Perrins Worcestershire saus",
+          "inhoud": "150 ml",
+          "verpakking": {
+            "hoeveelheid": 150,
+            "eenheid": "ml"
+          },
+          "prijsCent": 229
+        }
+      ]
+    },
     "Wortel": {
       "gramPerStuk": 100,
       "maten": [
@@ -3523,7 +3928,7 @@
       ]
     },
     "Zoete aardappel": {
-      "gramPerStuk": null,
+      "gramPerStuk": 300,
       "maten": [
         {
           "product": "wi164358",
@@ -3644,6 +4049,166 @@
             "eenheid": "g"
           },
           "prijsCent": 79
+        }
+      ]
+    },
+    "Couscous": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi525361",
+          "naam": "AH Couscous",
+          "inhoud": "400 g",
+          "verpakking": {
+            "hoeveelheid": 400,
+            "eenheid": "g"
+          },
+          "prijsCent": 129
+        }
+      ]
+    },
+    "Ribkarbonade": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi4033",
+          "naam": "AH Ribkarbonade",
+          "inhoud": "2 stuks",
+          "verpakking": {
+            "hoeveelheid": 2,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 259
+        }
+      ]
+    },
+    "Braadworst": {
+      "gramPerStuk": 100,
+      "maten": [
+        {
+          "product": "wi169422",
+          "naam": "AH Braadworst 2 stuks",
+          "inhoud": "2 stuks",
+          "verpakking": {
+            "hoeveelheid": 2,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 219
+        },
+        {
+          "product": "wi169421",
+          "naam": "AH Braadworst 4 stuks",
+          "inhoud": "4 stuks",
+          "verpakking": {
+            "hoeveelheid": 4,
+            "eenheid": "stuk"
+          },
+          "prijsCent": 349
+        }
+      ]
+    },
+    "Prosciutto": {
+      "gramPerStuk": 12,
+      "maten": [
+        {
+          "product": "wi479368",
+          "naam": "AH Prosciutto crudo",
+          "inhoud": "70 g",
+          "verpakking": {
+            "hoeveelheid": 70,
+            "eenheid": "g"
+          },
+          "prijsCent": 229
+        }
+      ]
+    },
+    "Verse salie": {
+      "gramPerStuk": 0.5,
+      "maten": [
+        {
+          "product": "wi200547",
+          "naam": "AH Salie",
+          "inhoud": "15 g",
+          "verpakking": {
+            "hoeveelheid": 15,
+            "eenheid": "g"
+          },
+          "prijsCent": 119
+        }
+      ]
+    },
+    "Ansjovisfilets": {
+      "gramPerStuk": 4,
+      "maten": [
+        {
+          "product": "wi438922",
+          "naam": "AH Ansjovis",
+          "inhoud": "90 g",
+          "verpakking": {
+            "hoeveelheid": 90,
+            "eenheid": "g"
+          },
+          "prijsCent": 319
+        }
+      ]
+    },
+    "Za'atar": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi518842",
+          "naam": "Verstegen World spice blend za'atar",
+          "inhoud": "27 g",
+          "verpakking": {
+            "hoeveelheid": 54,
+            "eenheid": "ml"
+          },
+          "prijsCent": 339
+        }
+      ]
+    },
+    "Venkelzaad": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi223827",
+          "naam": "Verstegen Venkelzaad",
+          "inhoud": "28 g",
+          "verpakking": {
+            "hoeveelheid": 28,
+            "eenheid": "g"
+          },
+          "prijsCent": 289
+        }
+      ]
+    },
+    "Farfalle": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi62025",
+          "naam": "AH Farfalle",
+          "inhoud": "500 g",
+          "verpakking": {
+            "hoeveelheid": 500,
+            "eenheid": "g"
+          },
+          "prijsCent": 129
+        }
+      ]
+    },
+    "Groene olijven": {
+      "gramPerStuk": 4,
+      "maten": [
+        {
+          "product": "wi199923",
+          "naam": "AH Biologisch Groene olijven zonder pit",
+          "inhoud": "240 g",
+          "verpakking": {
+            "hoeveelheid": 240,
+            "eenheid": "g"
+          },
+          "prijsCent": 159
         }
       ]
     }
