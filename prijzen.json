@@ -1,5 +1,5 @@
 {
-  "datum": "2026-11-22",
+  "datum": "2026-11-23",
   "bron": "Checkjebon (checkjebon.nl), prijzen van Albert Heijn",
   "producten": {
     "Ananas": {
@@ -4068,7 +4068,7 @@
       ]
     },
     "Ribkarbonade": {
-      "gramPerStuk": null,
+      "gramPerStuk": 150,
       "maten": [
         {
           "product": "wi4033",
@@ -4108,7 +4108,7 @@
       ]
     },
     "Prosciutto": {
-      "gramPerStuk": 12,
+      "gramPerStuk": 14,
       "maten": [
         {
           "product": "wi479368",
@@ -4160,7 +4160,7 @@
           "naam": "Verstegen World spice blend za'atar",
           "inhoud": "27 g",
           "verpakking": {
-            "hoeveelheid": 54,
+            "hoeveelheid": 45,
             "eenheid": "ml"
           },
           "prijsCent": 339
@@ -4209,6 +4209,21 @@
             "eenheid": "g"
           },
           "prijsCent": 159
+        }
+      ]
+    },
+    "Entrecote": {
+      "gramPerStuk": null,
+      "maten": [
+        {
+          "product": "wi143094",
+          "naam": "AH Excellent Entrecote",
+          "inhoud": "320 g",
+          "verpakking": {
+            "hoeveelheid": 320,
+            "eenheid": "g"
+          },
+          "prijsCent": 1449
         }
       ]
     }
